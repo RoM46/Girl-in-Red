@@ -7,6 +7,7 @@
 - Set up a project board and table to track my milestones (using both board and table views)
 - Learned about the importance of keeping my repo organized
 - Gained a better understanding of working with GitHub and Markdown files
+- I learned how to create a license on GitHub, and **I look forward to learning more about the different licenses and their differences and when to use each**
 
 ## Thoughts & Reflections
 
