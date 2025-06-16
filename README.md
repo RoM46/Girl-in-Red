@@ -10,7 +10,7 @@ Goals:
 - build a daily habit of learning and coding
 - Complete 30 hands-on security mini-projects.
 - Document everything I learn for my future self to refer to
-- - Also for my future self to look back and see how far she's come
+  - Also for my future self to look back and see how far she's come
 - learn to become a red hat hacker
 - add to my journey in cybersecurity
 - do something i love
